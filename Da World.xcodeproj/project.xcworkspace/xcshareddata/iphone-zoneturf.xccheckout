@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAF18F16-6861-4DD8-A66F-23EB3185C307</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iphone-zoneturf</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2356BB01-D61D-4A63-9ECB-8C2BD42C6C70</key>
+		<string>svn+ssh://95.131.139.113/iphone-zoneturf/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iphone-zoneturf/iphone-zoneturf.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2356BB01-D61D-4A63-9ECB-8C2BD42C6C70</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>2356BB01-D61D-4A63-9ECB-8C2BD42C6C70</key>
+		<string>svn+ssh://95.131.139.113/iphone-zoneturf</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn+ssh://95.131.139.113/iphone-zoneturf/trunk/iphone-zoneturf/iphone-zoneturf.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2356BB01-D61D-4A63-9ECB-8C2BD42C6C70</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2356BB01-D61D-4A63-9ECB-8C2BD42C6C70</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>

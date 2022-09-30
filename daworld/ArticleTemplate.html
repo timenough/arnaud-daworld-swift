@@ -1,0 +1,113 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+        <style>
+            body{
+                
+                font-family:helvetica,sans-serif;
+                color:#3b3b3a;
+                font-size:_ARTICLE_FONT_SIZE_px;
+                padding:0;
+                margin:0;
+                background:#fefefe;
+            }
+        .main{
+            margin:20px 15px;
+        }
+        
+        
+        h1, h2{font-family:helvetica;color:black;}
+        
+        
+        h1{
+            font-size:20px;
+            font-weight:bold;
+            margin-top:-3px;
+            padding:0;
+            line-height:23px;
+        }
+        
+        h2{
+            font-size:16px;
+            line-height:16px;
+            font-weight:bold;
+            margin:0;
+            margin-bottom:10px;
+            padding:0;
+            font-family:helvetica !important;
+        }
+        
+        p{
+            font-size:_ARTICLE_FONT_SIZE_px;
+            line-height:17px;
+            text-align:justify;
+            font-family:helvetica;
+        }
+        
+        .chapo{font-style:italic;}
+        .date{font-size:12px;text-decoration:none;color:#a4a3a1; display:block;float:left;}
+        
+        .next{
+            float:right;
+        }
+        
+        .previous{
+            float:left;
+        }
+        
+        a{
+            text-decoration:underline;
+            color:black;
+            
+        }
+        
+        .boutons{padding-bottom:10px;clear:both;}
+        .picture{height:170px;width:286px;background:transparent url(_PICTURE_) no-repeat left center ;border:2px solid #dbdad9;}
+        .tools {
+            margin-top: -3px;
+            height: 24px;
+            display: inline-block;
+            font-size: 16px;
+            background: #86af44;
+            border-radius: 25px;
+            float: right;
+            font-family:helvetica;
+            margin-left:3px;
+            padding:0 5px;
+        }
+        
+        .tools a img{margin-top:3px;}
+        
+        .tools a {
+            display: inline-block;
+            width: 20px;
+            color: White;
+            text-decoration: none;
+            padding: 2px 5px 3px 5px;
+            margin: 0;
+            text-align:center;
+        }
+        </style>
+        <body>
+            
+            <div class="main">
+                <h1>_TITLE_</h1>
+                <div class="boutons">
+                    <span class="date">_DATE_</span>
+                    <div class="tools">
+                        <a href="/share"><img src="button_share_icon.png" height="14"  /></a>
+                    </div>
+                    <div class="tools">
+                        <a href="/plus">A+</a>
+                        <a href="/minus">A-</a>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+                <div style="clear:both"></div>
+                _PICTURE_BLOC_
+                <p class="chapo">_CHAPO_</p>
+                <p>_CONTENT_</p>
+            </div>
+        </body>
+</html>
